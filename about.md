@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+#### stay hungry. stay foolish !
 
-### More Information
+### Focus
+back-end, big data  
 
-A place to include any other types of information that you'd like to include about yourself.
+### Hobbies
+coding, reading, singing, guitar, tennis
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[berylqliu@qq.com](mailto:berylqliu@qq.com)
