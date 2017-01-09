@@ -282,6 +282,31 @@ nav {
   margin-top: 30px;
 }
 
+.ds-thread {
+  #ds-reset {
+    .ds-comments-info {
+      .ds-comments-tabs {
+        li.ds-tab {
+          .ds-comments-tab-weibo {
+            display: none;
+          }
+        }
+      }
+    }
+    .ds-powered-by {
+      display: none;
+    }
+  }
+}
+
+.ds-share {
+  #ds-reset {
+    .ds-share-icons-footer {
+      display: none;
+    }
+  }
+}
+
 footer {
   padding: 20px 0;
   text-align: center;
